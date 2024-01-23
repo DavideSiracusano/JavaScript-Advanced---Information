@@ -14,7 +14,7 @@ yarn build
 
 to bundle your application
 
-# ![Screenshot 2024-01-12 170744](https://github.com/DavideSiracusano/counter/assets/152174921/cc650588-331f-40c3-b82e-98ef6e9fc42f)
+# ![Screenshot 2024-01-12 170744]
 
 # Counter
 <table>
