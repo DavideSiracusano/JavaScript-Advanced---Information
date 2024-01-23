@@ -1,4 +1,25 @@
 import "../css/styles.css";
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyBuIACdc6LkW_GvXw8LFzFGpmnFDCdnY4o",
+  authDomain: "sirdavijavadvs2i.firebaseapp.com",
+  projectId: "sirdavijavadvs2i",
+  storageBucket: "sirdavijavadvs2i.appspot.com",
+  messagingSenderId: "902821482210",
+  appId: "1:902821482210:web:3cde1e3f8da794cb9dd8bb",
+  measurementId: "G-L0V3E17P8T",
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 
 let newsList = []; // Array to store the list of news
 let currentIndex = 0; // Index to keep track of the current batch of news
