@@ -50,10 +50,6 @@ cliccare sul button "load more" per caricare 10 news alla volta
 
 
 
-## Demo
-Here is a working live demo :  (https://sirdavijavadvs2i.web.app/)
-
-
 
 
 
