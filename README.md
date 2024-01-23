@@ -28,7 +28,7 @@ to bundle your application
 
 
 ## Demo
-Here is a working live demo :  (https://davidesiracusano.github.io/counter/)
+Here is a working live demo :  (https://sirdavijavadvs2i.web.app/)
 
 
 ## Site
