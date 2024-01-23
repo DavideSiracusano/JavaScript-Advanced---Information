@@ -14,13 +14,14 @@ yarn build
 
 to bundle your application
 
-# ![Screenshot 2024-01-12 170744]
+# ![Screenshot 2024-01-22 180448](https://github.com/DavideSiracusano/JavaScript-Advanced---Information/assets/152174921/4750ef15-944b-4afa-b0b1-e24057cb3d86)
 
-# Counter
+
+
 <table>
 <tr>
 <td>
-  un semplice counter usando HTML, CSS E JS (c`è un piccolo easter egg se siete pazienti! 👀
+  progetto javascript advanced proposto dal master s2i per democratizzare la diffusione di informazioni in ambito tech attraverso l'utilizzo del servizio Hacker News.
 </td>
 </tr>
 </table>
@@ -48,14 +49,6 @@ Here is a working live demo :  (https://davidesiracusano.github.io/counter/)
 cliccare sul button "load more" per caricare 10 news alla volta
 
 
-
-
-<table>
-<tr>
-<td> progetto javascript advanced proposto dal master s2i per democratizzare la diffusione di informazioni in ambito tech attraverso l'utilizzo del servizio Hacker News.
-</td>
-</tr>
-</table>
 
 
 ## Demo
