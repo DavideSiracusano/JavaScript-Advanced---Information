@@ -14,7 +14,8 @@ yarn build
 
 to bundle your application
 
-# ![Screenshot 2024-01-22 180448](https://github.com/DavideSiracusano/JavaScript-Advanced---Information/assets/152174921/4750ef15-944b-4afa-b0b1-e24057cb3d86)
+![image](https://github.com/DavideSiracusano/JavaScript-Advanced---Information/assets/152174921/6fd79d24-f0b0-49a2-8ed4-8eec818e8a66)
+
 
 
 
@@ -43,7 +44,7 @@ Here is a working live demo :  (https://sirdavijavadvs2i.web.app/)
 
 
 ## To-do
-cliccare sul button "load more" per caricare 10 news alla volta
+cliccare sul button "load more" per caricare 10 news alla volta, cliccare sul button "load one news" per caricarne 1
 
 
 
