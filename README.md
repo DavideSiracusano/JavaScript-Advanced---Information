@@ -17,7 +17,7 @@ to bundle your application
 ![Screenshot 2024-01-30 193424](https://github.com/DavideSiracusano/JavaScript-Advanced---Information/assets/152174921/39532e89-f7db-4b34-8524-fa076ee2cea0)
 
 
-# Counter
+# Hacker News Viewer
 <table>
 <tr>
 <td>
