@@ -45,7 +45,7 @@ Here is a working live demo :  (https://sirdavjavadvs2i.web.app/)
 
 
 ## To-do
-All`avvio verranno mostrate le 10 news più recenti, con i due buttons poi potremmo chiederne di caricarne altre 10 "load more" o una alla volta "load one News"
+All`avvio verranno mostrate le 10 news più recenti, con i due buttons poi potremmo chiedere di caricarne altre 10 "load more" o una alla volta "load one News"
 
 
 
