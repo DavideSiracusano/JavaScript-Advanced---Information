@@ -16,15 +16,26 @@ body {
   color: aliceblue;
 }
 
+#btns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
 #load-more-btn {
   background-image: linear-gradient(to bottom right, blue, gray);
   border-radius: 20px;
   border: none;
   color: aliceblue;
   font-weight: bold;
-  width: 20%;
-  margin-left: 39%;
-  margin-top: 50px;
+}
+
+#load-one-btn {
+  background-image: linear-gradient(to bottom right, blue, gray);
+  border-radius: 20px;
+  border: none;
+  color: aliceblue;
+  font-weight: bold;
 }
 
 #footer {
